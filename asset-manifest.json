@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fatratcapital/static/css/main.3296876f.css",
+    "main.js": "/fatratcapital/static/js/main.be280650.js",
+    "static/js/787.058b5277.chunk.js": "/fatratcapital/static/js/787.058b5277.chunk.js",
+    "static/media/fatRat.png": "/fatratcapital/static/media/fatRat.17bd8f78550886034e72.png",
+    "static/media/cheesea.jpg": "/fatratcapital/static/media/cheesea.eaf137b6d05cc8ba663c.jpg",
+    "static/media/logo.svg": "/fatratcapital/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fatratcapital/index.html",
+    "main.3296876f.css.map": "/fatratcapital/static/css/main.3296876f.css.map",
+    "main.be280650.js.map": "/fatratcapital/static/js/main.be280650.js.map",
+    "787.058b5277.chunk.js.map": "/fatratcapital/static/js/787.058b5277.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3296876f.css",
+    "static/js/main.be280650.js"
+  ]
+}
