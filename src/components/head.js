@@ -34,7 +34,7 @@ function Head() {
           aria-label="menu"
           sx={{ mr: 2 }}
         >
-          <a href="https://www.w3schools.com">
+          <a href="https://twitter.com/fonkydonk">
             <img src={twitter} className="links" alt="twitter" />
           </a>
         </IconButton>
